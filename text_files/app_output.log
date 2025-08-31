@@ -1,7 +1,7 @@
 [INFO] App started
-[DEBUG] Checking dependencies
+[INFO] Checking dependencies
 [ERROR] Missing config file
 [INFO] Attempting to recover
-[WARN] Using default settings
-[FAILURE] Connection timeout
+[WARNING] Using default settings
+[ERROR] Connection timeout
 [INFO] Shutdown complete
